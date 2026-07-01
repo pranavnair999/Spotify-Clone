@@ -1,0 +1,15 @@
+@media (min-width: 600px) {
+    .container {
+      width:fit-content;
+    }
+    .nav{
+        font-size: 5px;
+        background-color:red;
+    }
+  }
+  
+  @media (max-width: 599px) {
+    .container {
+      width:100%;
+    }
+  }
